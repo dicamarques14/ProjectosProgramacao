@@ -1,0 +1,10 @@
+520*98 @ 750x 0y (98+4)
+
+
+766 44 -> +16 +24
+Bat / 200 -> %Bateria no ecra
+Mostrar nome do Robo
+
+ID no robo 
+
+Interactividade no Render

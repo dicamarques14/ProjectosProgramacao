@@ -1,0 +1,10 @@
+Continente Manager Simulator 2017 - Diogo Marques, Diogo Machado, Rodrigo Alves
+TempoRefrescamento : 2000
+3
+Caixa1 : 1
+0
+Caixa2 : 0
+0
+Caixa3 : 1
+1
+P24 : 7
