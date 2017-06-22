@@ -1,5 +1,10 @@
 # Projecto de Estrutura de Dados
 Projeto Final – “Gestão de Caixas de um supermercado”
+
+
+![Screenshot](https://github.com/dicamarques14/ProjectosProgramacao/raw/master/Estrutura de Dados/Screen.png)
+
+
 A gerência de uma grande superfície “Compra Aqui Lda.” pretende desenvolver um programa que permita gerir todo o conjunto de caixas de atendimento que possui.
 O sistema que se pretende servirá para a gerência poder “apreciar” o andamento das caixas de atendimento. A gerência da empresa pretende, essencialmente, gerir as caixas e verificar se será necessário introduzir/remover caixas de modo a optimizar todo o processo. Existe um programa (ED_Visual.exe) que está permanentemente a fazer a monitorização do sistema.
 O tempo de atendimento de uma pessoa depende do numero de compras que trás no carrinho. Estima-se que o tempo de passagem (na caixa) de cada produto é um valor entre [2, TEMPO_ATENDIMENTO_PRODUTO]
