@@ -1,4 +1,4 @@
-Continente Manager Simulator 2017 - Diogo Marques, Diogo Machado, Rodrigo Alves
+Continente Manager Simulator 2017 - 
 TempoRefrescamento : 2000
 3
 Caixa1 : 1
