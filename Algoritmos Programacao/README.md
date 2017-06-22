@@ -35,7 +35,10 @@ A divisão é rectangular com uma altura A e largura L, valores pedidos ao utili
 Escrita	em	Ficheiro	
 No final de cada simulação é necessário gravar em ficheiro algumas estatísticas sobre os robots.
 • Nome do robot;
+
 • Número de quadrados limpos;
+
 • Número de quadrados percorridos;
+
 • Lista de inteiros com um índice para cada quadrado percorrido pelo robot.
 
