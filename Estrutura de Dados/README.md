@@ -2,7 +2,7 @@
 Projeto Final – “Gestão de Caixas de um supermercado”
 
 
-![Screenshot](https://github.com/dicamarques14/ProjectosProgramacao/raw/master/Estrutura de Dados/Screen.png)
+![Screenshot](https://github.com/dicamarques14/ProjectosProgramacao/raw/master/Estrutura%20de%20Dados/Screen.png)
 
 
 A gerência de uma grande superfície “Compra Aqui Lda.” pretende desenvolver um programa que permita gerir todo o conjunto de caixas de atendimento que possui.
