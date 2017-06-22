@@ -1,6 +1,8 @@
 # Projecto de Algoritmos e Programação
 Robo de Limpeza – CleaningRobot
-
+<br>
+![Screenshot](https://github.com/dicamarques14/ProjectosProgramacao/raw/master/Algoritmos%20Programacao/Screen.png)
+<br>
 O objectivo deste projecto é desenvolver uma aplicação que simula o funcionamento de um robot de limpeza chamado CleaningRobot. De um modo geral, o programa simula o funcionamento de robots de limpeza que existem actualmente no mercado. O robot deve-se movimentar num dado piso, limpando a área por onde passa. O objectivo dessa simulação é estimar quanto tempo um robot demora a limpar a área associada a uma divisão, assumindo que existem obstáculos (móveis, mesas, etc.).
 O programa deve permitir a geração de um mapa da divisão, simular o processo de limpeza por parte do robot, marcando os espaços já limpos, bem como a gravação de um ficheiro que indique o nome do robot, algumas estatísticas da simulação da limpeza e o caminho percorrido.
 
