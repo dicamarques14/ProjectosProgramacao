@@ -1,0 +1,9 @@
+8 inimigos e no max 3 linhas
+
+
+int Nivel[][24] = {{1,1,1,1},{2,2,2,2,1,1,1,1}};
+
+contar os inimigos vivos!!!
+O que acontece quando acaba um nivel?
+
+Ver melhor  o EstadoDoJogo no Gestor

@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Utilizador">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQEAAAAABAAAAQAAAAAAAAECAAAACA=</HashCode>
+      <FileName>Utilizador.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestaoTudo">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>EAACsAAYgAZMIBDAwAVgAIQIAgECAEACAQABqCQAygA=</HashCode>
+      <FileName>GestaoTudo.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="mariana" />
+      <Field Name="NivelObj" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Inimigo">
+    <Position X="5" Y="6" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AgAABAAAAIAIAAAAAACAACAAAUAIAQAIAEAAxAAgCgA=</HashCode>
+      <FileName>Inimigo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InimigoBoss">
+    <Position X="8.25" Y="6" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAEAAgAIAIAAAAAACAAAAAAQAAACAAAAABAAAACAA=</HashCode>
+      <FileName>InimigoBoss.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jogador">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAIEAAAAASAAAAAAAAAAwAAAAAAAAAgAAIwQAAgAA=</HashCode>
+      <FileName>Jogador.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NivelClass">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>EEAAAAAYgQQIEAAAQABAAAAAAAACBMAAAAAAICQICAA=</HashCode>
+      <FileName>NivelClass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tiro">
+    <Position X="6" Y="3.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAIAAAAAAAAAAgAgAAAAAAAAAAAAAxAAAAgQ=</HashCode>
+      <FileName>Tiro.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
