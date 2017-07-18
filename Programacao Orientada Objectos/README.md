@@ -2,9 +2,9 @@
 Projeto Final – “MMInvaders”
 
 
-![Screenshot](https://github.com/dicamarques14/ProjectosProgramacao/raw/master/Estrutura%20de%20Dados/Screen.png)
+![Screenshot](https://github.com/dicamarques14/ProjectosProgramacao/raw/master/Programacao%20Orientada%20Objectos/Screen1.png)
 
-![Screenshot](https://github.com/dicamarques14/ProjectosProgramacao/raw/master/Estrutura%20de%20Dados/Screen.png)
+![Screenshot](https://github.com/dicamarques14/ProjectosProgramacao/raw/master/Programacao%20Orientada%20Objectos/Screen2.png)
 
 
 Projeto de POO: Jogo 
@@ -27,6 +27,8 @@ Para controlar o jogo usa-se as seguintes teclas:
 ● Space - para disparar
 ● A - mover o jogador para a esquerda
 ● D - mover o jogador para a direita
+
+![Screenshot](https://github.com/dicamarques14/ProjectosProgramacao/raw/master/Programacao%20Orientada%20Objectos/Inimigos.png)
 
 Soluções para problemas
 Durante a realização do projecto surgiram algumas dificuldades e erros de
